@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aimplement/Aimplement.iml" filepath="$PROJECT_DIR$/Aimplement/Aimplement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Algorithms(4th).iml" filepath="$PROJECT_DIR$/Algorithms/Algorithms(4th).iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSAA.iml" filepath="$PROJECT_DIR$/DSAA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cs-notes/cs-notes.iml" filepath="$PROJECT_DIR$/cs-notes/cs-notes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise/exercise.iml" filepath="$PROJECT_DIR$/exercise/exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-alog/hello-alog.iml" filepath="$PROJECT_DIR$/hello-alog/hello-alog.iml" />
+    </modules>
+  </component>
+</project>
